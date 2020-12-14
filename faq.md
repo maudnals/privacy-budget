@@ -128,7 +128,4 @@ This is an open question, and it will need to be publicly established in the fut
 the approach different browser vendors decide to take.
 
 
-[Read more about
-entropy](https://www.eff.org/deeplinks/2010/01/primer-information-theory-and-privacy).
-
 _FAQ Contributors: [maudnals](https://github.com/maudnals), [jensenpaul](https://github.com/JensenPaul), [asankah](https://github.com/asankah), [bslassey](https://github.com/bslassey), [rowan-m](https://github.com/rowan-m)._
